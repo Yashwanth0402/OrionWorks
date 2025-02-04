@@ -23,7 +23,7 @@ body, html {
 
 /* Logo */
 .logo {
-    height: 150px; /* Reduced logo height to further fit in the smaller navbar */
+    height: 400px; /* Reduced logo height to further fit in the smaller navbar */
     width: auto;
 }
 
